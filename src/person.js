@@ -12,4 +12,4 @@ toJSON(){
     return JSON.stringify(obj);
 }
 }
-module.exports = Person;
+module.exports = Person; 
